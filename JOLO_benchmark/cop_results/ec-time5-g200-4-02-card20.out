@@ -1,0 +1,92 @@
+
+begin cardinality 20
+begin try 1
+best 332.000000	time 0.060000
+best 299.000000	time 0.090000
+end try 1
+begin try 2
+best 319.000000	time 0.070000
+best 299.000000	time 0.100000
+end try 2
+begin try 3
+best 346.000000	time 0.070000
+best 301.000000	time 0.110000
+best 299.000000	time 0.150000
+end try 3
+begin try 4
+best 329.000000	time 0.070000
+best 314.000000	time 0.280000
+best 299.000000	time 0.310000
+end try 4
+begin try 5
+best 326.000000	time 0.060000
+best 303.000000	time 0.140000
+best 299.000000	time 0.210000
+end try 5
+begin try 6
+best 334.000000	time 0.070000
+best 304.000000	time 0.100000
+best 299.000000	time 0.170000
+end try 6
+begin try 7
+best 382.000000	time 0.070000
+best 317.000000	time 0.100000
+best 299.000000	time 0.210000
+end try 7
+begin try 8
+best 312.000000	time 0.070000
+best 299.000000	time 0.140000
+end try 8
+begin try 9
+best 328.000000	time 0.060000
+best 299.000000	time 0.100000
+end try 9
+begin try 10
+best 344.000000	time 0.070000
+best 299.000000	time 0.110000
+end try 10
+begin try 11
+best 351.000000	time 0.070000
+best 299.000000	time 0.110000
+end try 11
+begin try 12
+best 303.000000	time 0.070000
+best 299.000000	time 0.110000
+end try 12
+begin try 13
+best 367.000000	time 0.070000
+best 310.000000	time 0.110000
+best 299.000000	time 0.150000
+end try 13
+begin try 14
+best 331.000000	time 0.070000
+best 299.000000	time 0.110000
+end try 14
+begin try 15
+best 353.000000	time 0.070000
+best 325.000000	time 0.110000
+best 299.000000	time 0.150000
+end try 15
+begin try 16
+best 333.000000	time 0.070000
+best 301.000000	time 0.110000
+best 299.000000	time 0.220000
+end try 16
+begin try 17
+best 326.000000	time 0.070000
+best 299.000000	time 0.110000
+end try 17
+begin try 18
+best 340.000000	time 0.060000
+best 299.000000	time 0.100000
+end try 18
+begin try 19
+best 317.000000	time 0.070000
+best 299.000000	time 0.180000
+end try 19
+begin try 20
+best 320.000000	time 0.060000
+best 299.000000	time 0.100000
+end try 20
+statistics	20	299	299.000000	0.000000	0.146500	0.056408
+end cardinality 20

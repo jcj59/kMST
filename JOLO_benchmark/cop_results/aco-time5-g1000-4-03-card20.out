@@ -1,0 +1,106 @@
+
+begin cardinality 20
+begin try 1
+best 307.000000	time 0.070000
+best 289.000000	time 0.230000
+end try 1
+begin try 2
+best 289.000000	time 0.070000
+end try 2
+begin try 3
+best 308.000000	time 0.070000
+best 289.000000	time 0.140000
+end try 3
+begin try 4
+best 308.000000	time 0.070000
+best 307.000000	time 0.300000
+best 306.000000	time 0.380000
+best 289.000000	time 0.830000
+end try 4
+begin try 5
+best 310.000000	time 0.070000
+best 289.000000	time 0.150000
+end try 5
+begin try 6
+best 309.000000	time 0.070000
+best 307.000000	time 0.380000
+best 289.000000	time 0.700000
+end try 6
+begin try 7
+best 310.000000	time 0.070000
+best 307.000000	time 0.230000
+best 306.000000	time 0.620000
+best 289.000000	time 1.940000
+end try 7
+begin try 8
+best 307.000000	time 0.070000
+best 289.000000	time 0.310000
+end try 8
+begin try 9
+best 314.000000	time 0.070000
+best 309.000000	time 0.150000
+best 307.000000	time 0.230000
+best 289.000000	time 0.780000
+end try 9
+begin try 10
+best 308.000000	time 0.070000
+best 307.000000	time 0.230000
+best 289.000000	time 0.620000
+end try 10
+begin try 11
+best 308.000000	time 0.070000
+best 307.000000	time 0.150000
+best 289.000000	time 0.550000
+end try 11
+begin try 12
+best 309.000000	time 0.070000
+best 307.000000	time 0.310000
+best 289.000000	time 0.950000
+end try 12
+begin try 13
+best 307.000000	time 0.080000
+best 289.000000	time 0.240000
+end try 13
+begin try 14
+best 309.000000	time 0.070000
+best 308.000000	time 0.150000
+best 307.000000	time 0.240000
+best 291.000000	time 0.320000
+best 289.000000	time 0.480000
+end try 14
+begin try 15
+best 309.000000	time 0.070000
+best 308.000000	time 0.230000
+best 307.000000	time 0.400000
+best 294.000000	time 2.470000
+best 289.000000	time 2.780000
+end try 15
+begin try 16
+best 309.000000	time 0.070000
+best 308.000000	time 0.160000
+best 307.000000	time 0.320000
+best 306.000000	time 0.400000
+best 289.000000	time 1.110000
+end try 16
+begin try 17
+best 308.000000	time 0.070000
+best 307.000000	time 0.240000
+best 289.000000	time 0.400000
+end try 17
+begin try 18
+best 308.000000	time 0.080000
+best 307.000000	time 0.560000
+best 289.000000	time 1.050000
+end try 18
+begin try 19
+best 307.000000	time 0.080000
+best 306.000000	time 0.160000
+best 289.000000	time 0.400000
+end try 19
+begin try 20
+best 308.000000	time 0.070000
+best 307.000000	time 0.230000
+best 289.000000	time 1.280000
+end try 20
+statistics	20	289	289.000000	0.000000	0.750500	0.664145
+end cardinality 20

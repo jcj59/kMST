@@ -1,0 +1,76 @@
+
+begin cardinality 20
+begin try 1
+best 299.000000	time 0.080000
+best 280.000000	time 0.160000
+best 268.000000	time 0.300000
+end try 1
+begin try 2
+best 268.000000	time 0.070000
+end try 2
+begin try 3
+best 268.000000	time 0.060000
+end try 3
+begin try 4
+best 268.000000	time 0.070000
+end try 4
+begin try 5
+best 284.000000	time 0.070000
+best 268.000000	time 0.220000
+end try 5
+begin try 6
+best 268.000000	time 0.080000
+end try 6
+begin try 7
+best 299.000000	time 0.070000
+best 268.000000	time 0.140000
+end try 7
+begin try 8
+best 284.000000	time 0.070000
+best 268.000000	time 0.640000
+end try 8
+begin try 9
+best 284.000000	time 0.080000
+best 268.000000	time 0.160000
+end try 9
+begin try 10
+best 268.000000	time 0.070000
+end try 10
+begin try 11
+best 291.000000	time 0.070000
+best 268.000000	time 0.310000
+end try 11
+begin try 12
+best 284.000000	time 0.070000
+best 268.000000	time 0.150000
+end try 12
+begin try 13
+best 268.000000	time 0.070000
+end try 13
+begin try 14
+best 299.000000	time 0.080000
+best 284.000000	time 0.160000
+best 268.000000	time 0.320000
+end try 14
+begin try 15
+best 280.000000	time 0.070000
+best 268.000000	time 0.150000
+end try 15
+begin try 16
+best 268.000000	time 0.080000
+end try 16
+begin try 17
+best 268.000000	time 0.070000
+end try 17
+begin try 18
+best 268.000000	time 0.080000
+end try 18
+begin try 19
+best 289.000000	time 0.080000
+best 268.000000	time 0.320000
+end try 19
+begin try 20
+best 268.000000	time 0.070000
+end try 20
+statistics	20	268	268.000000	0.000000	0.171500	0.145648
+end cardinality 20
